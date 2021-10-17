@@ -21,12 +21,6 @@ public class XORTruthTable {
 		a=true; b=true;
 		System.out.println("a=true; b=true;  ->  " + (a^b));
 
-		// TODO: Define boolean variables a, b and xor
-
-		// TODO: for each combination of a and b
-		//       Change variables a and b
-		//		 and set the xor variable according
-		//       to your formula f 
-		//       then print the results
+	
 	}
 }
