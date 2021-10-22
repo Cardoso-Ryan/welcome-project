@@ -14,7 +14,7 @@ public class DivThreeCeption {
         scan.close();
 
         for (sum = 0; n != 0;) {
-            sum = sum +(n%10);
+            sum += (n%10);
             n /= 10;
             if (n == 0 && sum > 9) {
                 n = sum;
