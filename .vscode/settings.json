@@ -1,15 +1,16 @@
 {
     "java.project.sourcePaths": [
-        "prog1-2021-lab01-Cardoso-Ryan-master\\prog1-2021-lab01-Cardoso-Ryan-master\\src\\lu\\uni\\programming1\\lab1\\exercise7",
-        "prog1-2021-lab01-Cardoso-Ryan-master\\prog1-2021-lab01-Cardoso-Ryan-master\\src\\lu\\uni\\programming1\\lab1\\exercise8",
-        "prog1-2021-lab01-Cardoso-Ryan-master\\prog1-2021-lab01-Cardoso-Ryan-master\\src\\lu\\uni\\programming1\\lab1\\exercise9",
-        "prog1-2021-lab02-Cardoso-Ryan-master\\src\\lu\\uni\\programming1\\lab2\\exercise1",
-        "prog1-2021-lab02-Cardoso-Ryan-master\\src\\lu\\uni\\programming1\\lab2\\exercise2",
-        "prog1-2021-lab02-Cardoso-Ryan-master\\src\\lu\\uni\\programming1\\lab2\\exercise3",
-        "prog1-2021-lab02-Cardoso-Ryan-master\\src\\lu\\uni\\programming1\\lab2\\exercise4",
-        "prog1-2021-lab02-Cardoso-Ryan-master\\src\\lu\\uni\\programming1\\lab2\\exercise6",
-        "prog1-2021-lab02-Cardoso-Ryan-master\\src\\lu\\uni\\programming1\\lab2\\exercise8",
-        "prog1-2021-lab03-Cardoso-Ryan-master"
+        "prog1-2021-lab03-Cardoso-Ryan-master",
+        "prog1-2021-lab02-Cardoso-Ryan-master/src/lu/uni/programming1/lab2/exercise8",
+        "prog1-2021-lab02-Cardoso-Ryan-master/src/lu/uni/programming1/lab2/exercise6",
+        "prog1-2021-lab02-Cardoso-Ryan-master/src/lu/uni/programming1/lab2/exercise4",
+        "prog1-2021-lab02-Cardoso-Ryan-master/src/lu/uni/programming1/lab2/exercise3",
+        "prog1-2021-lab02-Cardoso-Ryan-master/src/lu/uni/programming1/lab2/exercise2",
+        "prog1-2021-lab02-Cardoso-Ryan-master/src/lu/uni/programming1/lab2/exercise1",
+        "prog1-2021-lab01-Cardoso-Ryan-master/prog1-2021-lab01-Cardoso-Ryan-master/src/lu/uni/programming1/lab1/exercise9",
+        "prog1-2021-lab01-Cardoso-Ryan-master/prog1-2021-lab01-Cardoso-Ryan-master/src/lu/uni/programming1/lab1/exercise8",
+        "prog1-2021-lab01-Cardoso-Ryan-master/prog1-2021-lab01-Cardoso-Ryan-master/src/lu/uni/programming1/lab1/exercise7",
+        "prog1-2021-lab10-Cardoso-Ryan/src/lu/uni/programming1/lab10/exercise1"
     ],
     "java.project.outputPath": "prog1-2021-lab04-Cardoso-Ryan\\src\\lu\\uni\\programming1\\lab4\\exercise1"
 }
